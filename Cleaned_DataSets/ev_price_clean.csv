@@ -1,0 +1,361 @@
+"Name";"Subtitle";"Acceleration";"TopSpeed";"Range_km";"Efficiency";"FastChargeSpeed";"Drive";"NumberofSeats";"PriceinGermany";"PriceinUK";"price_germany_num";"price_uk_num"
+"Opel Ampera-e ";"Battery Electric Vehicle |       58 kWh ";"7.3 sec";"150 km/h";"335 km";"173 Wh/km";"210 km/h";"Front Wheel Drive";"5";"42990";"";42990.0;0.0
+"Renault Kangoo Maxi ZE 33";"Battery Electric Vehicle |       31 kWh ";"22.4 sec";"130 km/h";"160 km";"194 Wh/km";"-";"Front Wheel Drive";"5";"";"31680";0.0;31680.0
+"Nissan Leaf ";"Battery Electric Vehicle |       36 kWh ";"7.9 sec";"144 km/h";"220 km";"164 Wh/km";"230 km/h";"Front Wheel Drive";"5";"29990";"25995";29990.0;25995.0
+"Audi e-tron Sportback 55 quattro";"Battery Electric Vehicle |       86.5 kWh";"5.7 sec";"200 km/h";"375 km";"231 Wh/km";"600 km/h";"All Wheel Drive";"5";"";"79900";0.0;79900.0
+"Porsche Taycan Turbo S";"Battery Electric Vehicle |       83.7 kWh";"2.8 sec";"260 km/h";"390 km";"215 Wh/km";"860 km/h";"All Wheel Drive";"4";"186336";"138830";186336.0;138830.0
+"Nissan e-NV200 Evalia ";"Battery Electric Vehicle |       36 kWh ";"14.0 sec";"123 km/h";"165 km";"218 Wh/km";"170 km/h";"Front Wheel Drive";"7";"43433";"30255";43433.0;30255.0
+"Volkswagen ID.3 Pure Performance";"Battery Electric Vehicle |       45 kWh";"8.9 sec";"160 km/h";"275 km";"164 Wh/km";"260 km/h";"Rear Wheel Drive";"5";"31960";"27120";31960.0;27120.0
+"BMW iX3 ";"Battery Electric Vehicle |       74 kWh";"6.8 sec";"180 km/h";"385 km";"192 Wh/km";"520 km/h";"Rear Wheel Drive";"5";"66300";"58850";66300.0;58850.0
+"Nissan Leaf e+";"Battery Electric Vehicle |       56 kWh ";"7.3 sec";"157 km/h";"325 km";"172 Wh/km";"390 km/h";"Front Wheel Drive";"5";"38350";"30445";38350.0;30445.0
+"BMW i3 120 Ah";"Battery Electric Vehicle |       37.9 kWh";"7.3 sec";"150 km/h";"235 km";"161 Wh/km";"270 km/h";"Rear Wheel Drive";"4";"39000";"31305";39000.0;31305.0
+"Mercedes EQA 250";"Battery Electric Vehicle |       66.5 kWh";"8.9 sec";"160 km/h";"355 km";"187 Wh/km";"420 km/h";"Front Wheel Drive";"5";"47541";"43495";47541.0;43495.0
+"DS 3 Crossback E-Tense";"Battery Electric Vehicle |       45 kWh ";"8.7 sec";"150 km/h";"250 km";"180 Wh/km";"330 km/h";"Front Wheel Drive";"5";"30040";"31500";30040.0;31500.0
+"BMW i3s 120 Ah";"Battery Electric Vehicle |       37.9 kWh";"6.9 sec";"160 km/h";"230 km";"165 Wh/km";"260 km/h";"Rear Wheel Drive";"4";"42600";"32305";42600.0;32305.0
+"Sono Sion ";"Battery Electric Vehicle |       47 kWh ";"9.0 sec";"140 km/h";"260 km";"181 Wh/km";"310 km/h";"Front Wheel Drive";"5";"25500";"";25500.0;0.0
+"Audi e-tron GT RS";"Battery Electric Vehicle |       85 kWh";"3.3 sec";"250 km/h";"405 km";"210 Wh/km";"810 km/h";"All Wheel Drive";"4";"138200";"110950";138200.0;110950.0
+"Kia e-Soul 64 kWh";"Battery Electric Vehicle |       64 kWh";"7.9 sec";"167 km/h";"370 km";"173 Wh/km";"350 km/h";"Front Wheel Drive";"5";"";"37545";0.0;37545.0
+"Renault Zoe ZE50 R110";"Battery Electric Vehicle |       52 kWh";"11.4 sec";"135 km/h";"315 km";"165 Wh/km";"230 km/h";"Front Wheel Drive";"5";"31990";"26795";31990.0;26795.0
+"Hyundai IONIQ Electric";"Battery Electric Vehicle |       38.3 kWh";"9.7 sec";"165 km/h";"250 km";"153 Wh/km";"220 km/h";"Front Wheel Drive";"5";"35350";"30550";35350.0;30550.0
+"Lightyear One ";"Battery Electric Vehicle |       60 kWh ";"10.0 sec";"150 km/h";"575 km";"104 Wh/km";"540 km/h";"All Wheel Drive";"5";"149000";"";149000.0;0.0
+"Tesla Roadster ";"Battery Electric Vehicle |       200 kWh ";"2.1 sec";"410 km/h";"970 km";"206 Wh/km";"920 km/h";"All Wheel Drive";"4";"215000";"189000";215000.0;189000.0
+"Peugeot e-208 ";"Battery Electric Vehicle |       45 kWh ";"8.1 sec";"150 km/h";"275 km";"164 Wh/km";"370 km/h";"Front Wheel Drive";"5";"30450";"27225";30450.0;27225.0
+"Honda e ";"Battery Electric Vehicle |       28.5 kWh ";"9.0 sec";"145 km/h";"170 km";"168 Wh/km";"190 km/h";"Rear Wheel Drive";"4";"33850";"27660";33850.0;27660.0
+"CUPRA Born 110 kW - 55 kWh";"Battery Electric Vehicle |       45 kWh";"8.9 sec";"160 km/h";"275 km";"164 Wh/km";"440 km/h";"Rear Wheel Drive";"5";"32700";"28500";32700.0;28500.0
+"Audi Q4 e-tron 35";"Battery Electric Vehicle |       51.5 kWh";"9.0 sec";"160 km/h";"280 km";"184 Wh/km";"390 km/h";"Rear Wheel Drive";"5";"41900";"40750";41900.0;40750.0
+"Tesla Model Y Long Range Dual Motor";"Battery Electric Vehicle |       76 kWh ";"5.1 sec";"217 km/h";"450 km";"169 Wh/km";"750 km/h";"All Wheel Drive";"7";"59965";"54000";59965.0;54000.0
+"Tesla Model Y Performance";"Battery Electric Vehicle |       76 kWh ";"3.7 sec";"241 km/h";"430 km";"177 Wh/km";"720 km/h";"All Wheel Drive";"7";"66965";"60000";66965.0;60000.0
+"Porsche Taycan 4 Cross Turismo";"Battery Electric Vehicle |       83.7 kWh";"5.1 sec";"220 km/h";"405 km";"207 Wh/km";"850 km/h";"All Wheel Drive";"4";"93635";"79340";93635.0;79340.0
+"Skoda Enyaq iV 50";"Battery Electric Vehicle |       52 kWh";"11.3 sec";"160 km/h";"295 km";"176 Wh/km";"240 km/h";"Rear Wheel Drive";"5";"33800";"";33800.0;0.0
+"Volkswagen e-Up! ";"Battery Electric Vehicle |       32.3 kWh";"11.9 sec";"130 km/h";"205 km";"158 Wh/km";"170 km/h";"Front Wheel Drive";"4";"";"";0.0;0.0
+"SEAT Mii Electric ";"Battery Electric Vehicle |       32.3 kWh";"12.3 sec";"130 km/h";"205 km";"158 Wh/km";"170 km/h";"Front Wheel Drive";"4";"24650";"";24650.0;0.0
+"Opel Corsa-e ";"Battery Electric Vehicle |       45 kWh ";"8.1 sec";"150 km/h";"275 km";"164 Wh/km";"370 km/h";"Front Wheel Drive";"5";"29000";"27140";29000.0;27140.0
+"MG ZS EV";"Battery Electric Vehicle |       42.5 kWh ";"8.2 sec";"140 km/h";"220 km";"193 Wh/km";"260 km/h";"Front Wheel Drive";"5";"31990";"25995";31990.0;25995.0
+"Volkswagen ID.3 Pro";"Battery Electric Vehicle |       58 kWh";"9.6 sec";"160 km/h";"350 km";"166 Wh/km";"440 km/h";"Rear Wheel Drive";"5";"34995";"28420";34995.0;28420.0
+"Volkswagen ID.3 Pro S";"Battery Electric Vehicle |       77 kWh";"7.9 sec";"160 km/h";"450 km";"171 Wh/km";"550 km/h";"Rear Wheel Drive";"4";"41995";"38800";41995.0;38800.0
+"Hyundai Kona Electric 64 kWh";"Battery Electric Vehicle |       64 kWh";"7.9 sec";"167 km/h";"395 km";"162 Wh/km";"370 km/h";"Front Wheel Drive";"5";"41850";"";41850.0;0.0
+"Renault Zoe ZE50 R135";"Battery Electric Vehicle |       52 kWh";"9.5 sec";"140 km/h";"310 km";"168 Wh/km";"230 km/h";"Front Wheel Drive";"5";"33990";"28795";33990.0;28795.0
+"Peugeot e-2008 SUV ";"Battery Electric Vehicle |       45 kWh ";"8.5 sec";"150 km/h";"250 km";"180 Wh/km";"330 km/h";"Front Wheel Drive";"5";"35450";"30730";35450.0;30730.0
+"Audi e-tron 50 quattro";"Battery Electric Vehicle |       64.7 kWh";"6.8 sec";"190 km/h";"280 km";"231 Wh/km";"470 km/h";"All Wheel Drive";"5";"69100";"60600";69100.0;60600.0
+"Porsche Taycan Turbo";"Battery Electric Vehicle |       83.7 kWh";"3.2 sec";"260 km/h";"400 km";"209 Wh/km";"840 km/h";"All Wheel Drive";"4";"153016";"115860";153016.0;115860.0
+"Smart EQ fortwo coupe";"Battery Electric Vehicle |       16.7 kWh ";"11.6 sec";"130 km/h";"100 km";"167 Wh/km";"-";"Rear Wheel Drive";"2";"18460";"19200";18460.0;19200.0
+"Smart EQ fortwo cabrio";"Battery Electric Vehicle |       16.7 kWh ";"11.9 sec";"130 km/h";"95 km";"176 Wh/km";"-";"Rear Wheel Drive";"2";"21720";"21620";21720.0;21620.0
+"Smart EQ forfour ";"Battery Electric Vehicle |       16.7 kWh ";"12.7 sec";"130 km/h";"95 km";"176 Wh/km";"-";"Rear Wheel Drive";"4";"19120";"19795";19120.0;19795.0
+"Honda e Advance";"Battery Electric Vehicle |       28.5 kWh ";"8.3 sec";"145 km/h";"170 km";"168 Wh/km";"190 km/h";"Rear Wheel Drive";"4";"38000";"30160";38000.0;30160.0
+"Byton M-Byte 72 kWh 2WD";"Battery Electric Vehicle |       72 kWh ";"7.5 sec";"190 km/h";"325 km";"222 Wh/km";"420 km/h";"Rear Wheel Drive";"5";"53500";"50000";53500.0;50000.0
+"Byton M-Byte 95 kWh 4WD";"Battery Electric Vehicle |       95 kWh ";"5.5 sec";"190 km/h";"390 km";"244 Wh/km";"460 km/h";"All Wheel Drive";"5";"64000";"60000";64000.0;60000.0
+"Renault Zoe ZE40 R110";"Battery Electric Vehicle |       41 kWh";"11.4 sec";"135 km/h";"255 km";"161 Wh/km";"230 km/h";"Front Wheel Drive";"5";"29990";"";29990.0;0.0
+"Porsche Taycan 4S";"Battery Electric Vehicle |       71 kWh";"4.0 sec";"250 km/h";"375 km";"189 Wh/km";"750 km/h";"All Wheel Drive";"4";"106487";"83580";106487.0;83580.0
+"Porsche Taycan 4S Plus";"Battery Electric Vehicle |       83.7 kWh";"4.0 sec";"250 km/h";"435 km";"192 Wh/km";"910 km/h";"All Wheel Drive";"4";"113008";"88193";113008.0;88193.0
+"Hyundai Kona Electric 39 kWh";"Battery Electric Vehicle |       39.2 kWh";"9.9 sec";"155 km/h";"250 km";"157 Wh/km";"210 km/h";"Front Wheel Drive";"5";"34850";"";34850.0;0.0
+"Mercedes EQV 300 Long";"Battery Electric Vehicle |       90 kWh";"12.1 sec";"160 km/h";"320 km";"281 Wh/km";"280 km/h";"Front Wheel Drive";"7";"71388";"70665";71388.0;70665.0
+"Mazda MX-30 ";"Battery Electric Vehicle |       30 kWh ";"9.7 sec";"140 km/h";"170 km";"176 Wh/km";"180 km/h";"Front Wheel Drive";"5";"34490";"26045";34490.0;26045.0
+"Ford Mustang Mach-E SR RWD";"Battery Electric Vehicle |       68 kWh";"6.9 sec";"180 km/h";"345 km";"197 Wh/km";"380 km/h";"Rear Wheel Drive";"5";"46900";"41330";46900.0;41330.0
+"Ford Mustang Mach-E ER RWD";"Battery Electric Vehicle |       88 kWh";"7.0 sec";"180 km/h";"440 km";"200 Wh/km";"430 km/h";"Rear Wheel Drive";"5";"54475";"49980";54475.0;49980.0
+"Ford Mustang Mach-E SR AWD";"Battery Electric Vehicle |       68 kWh";"6.3 sec";"180 km/h";"330 km";"206 Wh/km";"360 km/h";"All Wheel Drive";"5";"54000";"46650";54000.0;46650.0
+"Ford Mustang Mach-E ER AWD";"Battery Electric Vehicle |       88 kWh";"5.8 sec";"180 km/h";"420 km";"210 Wh/km";"410 km/h";"All Wheel Drive";"5";"62900";"57030";62900.0;57030.0
+"Ford Mustang Mach-E GT";"Battery Electric Vehicle |       88 kWh";"4.4 sec";"200 km/h";"410 km";"215 Wh/km";"400 km/h";"All Wheel Drive";"5";"";"67225";0.0;67225.0
+"Audi e-tron Sportback 50 quattro";"Battery Electric Vehicle |       64.7 kWh";"6.8 sec";"190 km/h";"295 km";"219 Wh/km";"490 km/h";"All Wheel Drive";"5";"71350";"69100";71350.0;69100.0
+"Tesla Cybertruck Single Motor";"Battery Electric Vehicle |       100 kWh ";"7.0 sec";"180 km/h";"390 km";"256 Wh/km";"740 km/h";"Rear Wheel Drive";"7";"45000";"39000";45000.0;39000.0
+"Tesla Cybertruck Dual Motor";"Battery Electric Vehicle |       120 kWh ";"5.0 sec";"190 km/h";"460 km";"261 Wh/km";"710 km/h";"All Wheel Drive";"7";"55000";"48000";55000.0;48000.0
+"Tesla Cybertruck Tri Motor";"Battery Electric Vehicle |       200 kWh ";"3.0 sec";"210 km/h";"750 km";"267 Wh/km";"710 km/h";"All Wheel Drive";"7";"75000";"68000";75000.0;68000.0
+"Lexus UX 300e";"Battery Electric Vehicle |       50 kWh ";"7.5 sec";"160 km/h";"260 km";"192 Wh/km";"150 km/h";"Front Wheel Drive";"5";"47550";"43900";47550.0;43900.0
+"BMW i4 eDrive40";"Battery Electric Vehicle |       80.7 kWh";"5.7 sec";"190 km/h";"475 km";"170 Wh/km";"660 km/h";"Rear Wheel Drive";"5";"58300";"51905";58300.0;51905.0
+"Audi e-tron 55 quattro";"Battery Electric Vehicle |       86.5 kWh";"5.7 sec";"200 km/h";"365 km";"237 Wh/km";"590 km/h";"All Wheel Drive";"5";"";"71500";0.0;71500.0
+"Aiways U5 ";"Battery Electric Vehicle |       63 kWh ";"7.5 sec";"150 km/h";"335 km";"188 Wh/km";"350 km/h";"Front Wheel Drive";"5";"35993";"";35993.0;0.0
+"Renault Twingo Electric";"Battery Electric Vehicle |       21.3 kWh";"12.6 sec";"135 km/h";"130 km";"164 Wh/km";"-";"Rear Wheel Drive";"4";"24790";"";24790.0;0.0
+"Audi e-tron S 55 quattro";"Battery Electric Vehicle |       86.5 kWh";"4.5 sec";"210 km/h";"320 km";"270 Wh/km";"510 km/h";"All Wheel Drive";"5";"93800";"87000";93800.0;87000.0
+"Audi e-tron S Sportback 55 quattro";"Battery Electric Vehicle |       86.5 kWh";"4.5 sec";"210 km/h";"335 km";"258 Wh/km";"540 km/h";"All Wheel Drive";"5";"96050";"88700";96050.0;88700.0
+"Volkswagen ID.4 1st";"Battery Electric Vehicle |       77 kWh";"8.5 sec";"160 km/h";"410 km";"188 Wh/km";"500 km/h";"Rear Wheel Drive";"5";"";"40800";0.0;40800.0
+"Byton M-Byte 95 kWh 2WD";"Battery Electric Vehicle |       95 kWh ";"7.5 sec";"190 km/h";"400 km";"238 Wh/km";"480 km/h";"Rear Wheel Drive";"5";"62000";"57500";62000.0;57500.0
+"Fiat 500e Cabrio";"Battery Electric Vehicle |       37.3 kWh ";"9.0 sec";"150 km/h";"245 km";"152 Wh/km";"410 km/h";"Front Wheel Drive";"4";"30560";"26645";30560.0;26645.0
+"Opel Mokka-e ";"Battery Electric Vehicle |       45 kWh ";"8.5 sec";"150 km/h";"255 km";"176 Wh/km";"340 km/h";"Front Wheel Drive";"5";"34110";"30540";34110.0;30540.0
+"Skoda Enyaq iV 60";"Battery Electric Vehicle |       58 kWh";"8.7 sec";"160 km/h";"330 km";"176 Wh/km";"420 km/h";"Rear Wheel Drive";"5";"38850";"31995";38850.0;31995.0
+"Skoda Enyaq iV 80";"Battery Electric Vehicle |       77 kWh";"8.6 sec";"160 km/h";"420 km";"183 Wh/km";"510 km/h";"Rear Wheel Drive";"5";"43950";"39350";43950.0;39350.0
+"Skoda Enyaq iV 80X";"Battery Electric Vehicle |       77 kWh";"6.9 sec";"160 km/h";"405 km";"190 Wh/km";"500 km/h";"All Wheel Drive";"5";"47000";"42000";47000.0;42000.0
+"Skoda Enyaq iV RS";"Battery Electric Vehicle |       77 kWh";"6.2 sec";"180 km/h";"395 km";"195 Wh/km";"480 km/h";"All Wheel Drive";"5";"50000";"45000";50000.0;45000.0
+"Fiat 500e Hatchback 42 kWh";"Battery Electric Vehicle |       37.3 kWh ";"9.0 sec";"150 km/h";"250 km";"149 Wh/km";"420 km/h";"Front Wheel Drive";"4";"27560";"23995";27560.0;23995.0
+"Citroen e-C4 ";"Battery Electric Vehicle |       45 kWh ";"9.7 sec";"150 km/h";"250 km";"180 Wh/km";"330 km/h";"Front Wheel Drive";"5";"34640";"30895";34640.0;30895.0
+"Jaguar I-Pace EV400";"Battery Electric Vehicle |       84.7 kWh";"4.8 sec";"200 km/h";"365 km";"232 Wh/km";"340 km/h";"All Wheel Drive";"5";"77300";"65195";77300.0;65195.0
+"Kia e-Soul 64 kWh";"Battery Electric Vehicle |       64 kWh";"7.9 sec";"167 km/h";"370 km";"173 Wh/km";"350 km/h";"Front Wheel Drive";"5";"37790";"";37790.0;0.0
+"Kia e-Soul 39 kWh";"Battery Electric Vehicle |       39.2 kWh";"9.9 sec";"157 km/h";"230 km";"170 Wh/km";"220 km/h";"Front Wheel Drive";"5";"33990";"";33990.0;0.0
+"Audi Q4 Sportback e-tron 35";"Battery Electric Vehicle |       51.5 kWh";"9.0 sec";"160 km/h";"295 km";"175 Wh/km";"410 km/h";"Rear Wheel Drive";"5";"43900";"42250";43900.0;42250.0
+"Nissan Ariya 63kWh";"Battery Electric Vehicle |       63 kWh";"7.5 sec";"160 km/h";"335 km";"188 Wh/km";"450 km/h";"Front Wheel Drive";"5";"45000";"40000";45000.0;40000.0
+"Nissan Ariya 87kWh";"Battery Electric Vehicle |       87 kWh";"7.6 sec";"160 km/h";"445 km";"196 Wh/km";"530 km/h";"Front Wheel Drive";"5";"50000";"45000";50000.0;45000.0
+"Nissan Ariya e-4ORCE 63kWh";"Battery Electric Vehicle |       63 kWh";"5.9 sec";"200 km/h";"325 km";"194 Wh/km";"440 km/h";"All Wheel Drive";"5";"50000";"45000";50000.0;45000.0
+"Nissan Ariya e-4ORCE 87kWh";"Battery Electric Vehicle |       87 kWh";"5.7 sec";"200 km/h";"420 km";"207 Wh/km";"500 km/h";"All Wheel Drive";"5";"57500";"52500";57500.0;52500.0
+"Nissan Ariya e-4ORCE 87kWh Performance";"Battery Electric Vehicle |       87 kWh";"5.1 sec";"200 km/h";"385 km";"226 Wh/km";"460 km/h";"All Wheel Drive";"5";"65000";"57500";65000.0;57500.0
+"Volkswagen ID.3 Pro Performance";"Battery Electric Vehicle |       58 kWh";"7.3 sec";"160 km/h";"350 km";"166 Wh/km";"440 km/h";"Rear Wheel Drive";"5";"36495";"29740";36495.0;29740.0
+"MG MG5 EV";"Battery Electric Vehicle |       48.8 kWh";"7.7 sec";"185 km/h";"295 km";"165 Wh/km";"340 km/h";"Front Wheel Drive";"5";"";"25095";0.0;25095.0
+"Volkswagen ID.4 Pro Performance";"Battery Electric Vehicle |       77 kWh";"8.5 sec";"160 km/h";"410 km";"188 Wh/km";"500 km/h";"Rear Wheel Drive";"5";"44450";"41570";44450.0;41570.0
+"Mercedes EQV 300 Extra-Long";"Battery Electric Vehicle |       90 kWh";"12.1 sec";"160 km/h";"320 km";"281 Wh/km";"280 km/h";"Front Wheel Drive";"7";"72281";"";72281.0;0.0
+"Lucid Air Grand Touring";"Battery Electric Vehicle |       110 kWh ";"3.2 sec";"270 km/h";"660 km";"167 Wh/km";"1380 km/h";"All Wheel Drive";"5";"140000";"125000";140000.0;125000.0
+"Lucid Air Touring";"Battery Electric Vehicle |       85 kWh ";"3.4 sec";"250 km/h";"530 km";"160 Wh/km";"1390 km/h";"All Wheel Drive";"5";"95000";"90000";95000.0;90000.0
+"Lucid Air Pure";"Battery Electric Vehicle |       85 kWh ";"4.2 sec";"200 km/h";"540 km";"157 Wh/km";"1410 km/h";"Rear Wheel Drive";"5";"80000";"70000";80000.0;70000.0
+"Dacia Spring Electric";"Battery Electric Vehicle |       26.8 kWh ";"15.0 sec";"125 km/h";"170 km";"158 Wh/km";"120 km/h";"Front Wheel Drive";"4";"20490";"";20490.0;0.0
+"Tesla Model 3 Standard Range Plus LFP";"Battery Electric Vehicle |       51 kWh ";"5.6 sec";"225 km/h";"340 km";"150 Wh/km";"570 km/h";"Rear Wheel Drive";"5";"43560";"40990";43560.0;40990.0
+"Tesla Model 3 Long Range Dual Motor";"Battery Electric Vehicle |       70 kWh ";"4.4 sec";"233 km/h";"455 km";"154 Wh/km";"570 km/h";"All Wheel Drive";"5";"";"48490";0.0;48490.0
+"Tesla Model 3 Performance";"Battery Electric Vehicle |       76 kWh ";"3.3 sec";"261 km/h";"470 km";"162 Wh/km";"790 km/h";"All Wheel Drive";"5";"58560";"59990";58560.0;59990.0
+"Fiat 500e Hatchback 24 kWh";"Battery Electric Vehicle |       23.8 kWh ";"9.5 sec";"135 km/h";"165 km";"144 Wh/km";"260 km/h";"Front Wheel Drive";"4";"23560";"20495";23560.0;20495.0
+"Fiat 500e 3+1";"Battery Electric Vehicle |       37.3 kWh ";"9.0 sec";"150 km/h";"245 km";"152 Wh/km";"410 km/h";"Front Wheel Drive";"4";"29560";"";29560.0;0.0
+"Mercedes EQC 400 4MATIC";"Battery Electric Vehicle |       80 kWh";"5.1 sec";"180 km/h";"370 km";"216 Wh/km";"440 km/h";"All Wheel Drive";"5";"66069";"65720";66069.0;65720.0
+"Kia e-Niro 64 kWh";"Battery Electric Vehicle |       64 kWh";"7.8 sec";"167 km/h";"370 km";"173 Wh/km";"350 km/h";"Front Wheel Drive";"5";"39090";"32445";39090.0;32445.0
+"Kia e-Niro 39 kWh";"Battery Electric Vehicle |       39.2 kWh";"9.8 sec";"155 km/h";"235 km";"167 Wh/km";"230 km/h";"Front Wheel Drive";"5";"35290";"30345";35290.0;30345.0
+"Citroen e-SpaceTourer XS 50 kWh";"Battery Electric Vehicle |       45 kWh ";"12.1 sec";"130 km/h";"185 km";"243 Wh/km";"250 km/h";"Front Wheel Drive";"7";"50880";"";50880.0;0.0
+"Citroen e-SpaceTourer M 50 kWh";"Battery Electric Vehicle |       45 kWh ";"12.1 sec";"130 km/h";"185 km";"243 Wh/km";"250 km/h";"Front Wheel Drive";"7";"51440";"31995";51440.0;31995.0
+"Citroen e-SpaceTourer XL 50 kWh";"Battery Electric Vehicle |       45 kWh ";"12.1 sec";"130 km/h";"180 km";"250 Wh/km";"240 km/h";"Front Wheel Drive";"7";"52230";"";52230.0;0.0
+"Citroen e-SpaceTourer M 75 kWh";"Battery Electric Vehicle |       68 kWh ";"13.3 sec";"130 km/h";"270 km";"252 Wh/km";"290 km/h";"Front Wheel Drive";"7";"57440";"";57440.0;0.0
+"Citroen e-SpaceTourer XL 75 kWh";"Battery Electric Vehicle |       68 kWh ";"13.3 sec";"130 km/h";"270 km";"252 Wh/km";"290 km/h";"Front Wheel Drive";"7";"58230";"";58230.0;0.0
+"Opel Zafira-e Life S 50 kWh";"Battery Electric Vehicle |       45 kWh ";"12.1 sec";"130 km/h";"185 km";"243 Wh/km";"250 km/h";"Front Wheel Drive";"7";"56700";"";56700.0;0.0
+"Opel Zafira-e Life M 50 kWh";"Battery Electric Vehicle |       45 kWh ";"12.1 sec";"130 km/h";"185 km";"243 Wh/km";"250 km/h";"Front Wheel Drive";"7";"53800";"";53800.0;0.0
+"Opel Zafira-e Life L 50 kWh";"Battery Electric Vehicle |       45 kWh ";"12.1 sec";"130 km/h";"180 km";"250 Wh/km";"240 km/h";"Front Wheel Drive";"7";"54625";"49465";54625.0;49465.0
+"Opel Zafira-e Life M 75 kWh";"Battery Electric Vehicle |       68 kWh ";"13.3 sec";"130 km/h";"270 km";"252 Wh/km";"290 km/h";"Front Wheel Drive";"7";"59800";"";59800.0;0.0
+"Opel Zafira-e Life L 75 kWh";"Battery Electric Vehicle |       68 kWh ";"13.3 sec";"130 km/h";"270 km";"252 Wh/km";"290 km/h";"Front Wheel Drive";"7";"60625";"";60625.0;0.0
+"Peugeot e-Traveller Compact 50 kWh";"Battery Electric Vehicle |       45 kWh ";"12.1 sec";"130 km/h";"185 km";"243 Wh/km";"250 km/h";"Front Wheel Drive";"7";"50880";"";50880.0;0.0
+"Peugeot e-Traveller Standard 50 kWh";"Battery Electric Vehicle |       45 kWh ";"13.1 sec";"130 km/h";"185 km";"243 Wh/km";"250 km/h";"Front Wheel Drive";"7";"55900";"49065";55900.0;49065.0
+"Peugeot e-Traveller Long 50 kWh";"Battery Electric Vehicle |       45 kWh ";"13.1 sec";"130 km/h";"185 km";"243 Wh/km";"250 km/h";"Front Wheel Drive";"7";"56690";"49905";56690.0;49905.0
+"Peugeot e-Traveller Standard 75 kWh";"Battery Electric Vehicle |       68 kWh ";"13.3 sec";"130 km/h";"270 km";"252 Wh/km";"290 km/h";"Front Wheel Drive";"7";"57440";"";57440.0;0.0
+"Peugeot e-Traveller Long 75 kWh";"Battery Electric Vehicle |       68 kWh ";"13.3 sec";"130 km/h";"270 km";"252 Wh/km";"290 km/h";"Front Wheel Drive";"7";"58230";"";58230.0;0.0
+"Audi e-tron 55 quattro";"Battery Electric Vehicle |       86.5 kWh";"5.7 sec";"200 km/h";"365 km";"237 Wh/km";"590 km/h";"All Wheel Drive";"5";"81500";"";81500.0;0.0
+"Audi e-tron Sportback 55 quattro";"Battery Electric Vehicle |       86.5 kWh";"5.7 sec";"200 km/h";"375 km";"231 Wh/km";"600 km/h";"All Wheel Drive";"5";"83750";"";83750.0;0.0
+"Seres 3 ";"Battery Electric Vehicle |       52 kWh ";"8.9 sec";"155 km/h";"270 km";"193 Wh/km";"390 km/h";"Front Wheel Drive";"5";"";"";0.0;0.0
+"Hyundai IONIQ 5 Project 45";"Battery Electric Vehicle |       72.6 kWh ";"5.2 sec";"185 km/h";"370 km";"196 Wh/km";"860 km/h";"All Wheel Drive";"5";"59550";"48000";59550.0;48000.0
+"Porsche Taycan ";"Battery Electric Vehicle |       71 kWh";"5.4 sec";"230 km/h";"395 km";"180 Wh/km";"790 km/h";"Rear Wheel Drive";"4";"83520";"70690";83520.0;70690.0
+"Porsche Taycan Plus";"Battery Electric Vehicle |       83.7 kWh";"5.4 sec";"230 km/h";"460 km";"182 Wh/km";"960 km/h";"Rear Wheel Drive";"4";"89244";"74739";89244.0;74739.0
+"Tesla Model S Long Range";"Battery Electric Vehicle |       90 kWh ";"3.2 sec";"250 km/h";"555 km";"162 Wh/km";"830 km/h";"All Wheel Drive";"5";"86990";"83980";86990.0;83980.0
+"Tesla Model S Plaid";"Battery Electric Vehicle |       90 kWh ";"2.1 sec";"322 km/h";"535 km";"168 Wh/km";"800 km/h";"All Wheel Drive";"5";"126990";"118980";126990.0;118980.0
+"Tesla Model X Long Range";"Battery Electric Vehicle |       90 kWh ";"3.9 sec";"250 km/h";"475 km";"189 Wh/km";"710 km/h";"All Wheel Drive";"7";"95990";"90980";95990.0;90980.0
+"Tesla Model X Plaid";"Battery Electric Vehicle |       90 kWh ";"2.6 sec";"262 km/h";"455 km";"198 Wh/km";"680 km/h";"All Wheel Drive";"7";"116990";"110980";116990.0;110980.0
+"Mini Cooper SE ";"Battery Electric Vehicle |       28.9 kWh";"7.3 sec";"150 km/h";"185 km";"156 Wh/km";"260 km/h";"Front Wheel Drive";"4";"32500";"26000";32500.0;26000.0
+"JAC iEV7s ";"Battery Electric Vehicle |       39 kWh";"12.0 sec";"132 km/h";"225 km";"173 Wh/km";"160 km/h";"Front Wheel Drive";"5";"";"";0.0;0.0
+"Volkswagen ID.4 Pure Performance";"Battery Electric Vehicle |       52 kWh";"9.0 sec";"160 km/h";"285 km";"182 Wh/km";"410 km/h";"Rear Wheel Drive";"5";"38450";"36030";38450.0;36030.0
+"Audi e-tron GT quattro";"Battery Electric Vehicle |       85 kWh";"4.1 sec";"245 km/h";"420 km";"202 Wh/km";"840 km/h";"All Wheel Drive";"4";"99800";"79900";99800.0;79900.0
+"Volvo C40 Recharge";"Battery Electric Vehicle |       75 kWh";"4.7 sec";"180 km/h";"340 km";"221 Wh/km";"440 km/h";"All Wheel Drive";"5";"62050";"57400";62050.0;57400.0
+"Hyundai Kona Electric 39 kWh";"Battery Electric Vehicle |       39.2 kWh";"9.9 sec";"155 km/h";"250 km";"157 Wh/km";"210 km/h";"Front Wheel Drive";"5";"35650";"27950";35650.0;27950.0
+"Hyundai Kona Electric 64 kWh";"Battery Electric Vehicle |       64 kWh";"7.9 sec";"167 km/h";"395 km";"162 Wh/km";"370 km/h";"Front Wheel Drive";"5";"41850";"32550";41850.0;32550.0
+"Porsche Taycan 4S Cross Turismo";"Battery Electric Vehicle |       83.7 kWh";"4.1 sec";"240 km/h";"405 km";"207 Wh/km";"850 km/h";"All Wheel Drive";"4";"111842";"87820";111842.0;87820.0
+"Porsche Taycan Turbo Cross Turismo";"Battery Electric Vehicle |       83.7 kWh";"3.3 sec";"250 km/h";"385 km";"217 Wh/km";"800 km/h";"All Wheel Drive";"4";"154444";"116950";154444.0;116950.0
+"Porsche Taycan Turbo S Cross Turismo";"Battery Electric Vehicle |       83.7 kWh";"2.9 sec";"250 km/h";"380 km";"220 Wh/km";"790 km/h";"All Wheel Drive";"4";"187746";"139910";187746.0;139910.0
+"Kia EV6 GT";"Battery Electric Vehicle |       77.4 kWh ";"3.5 sec";"260 km/h";"395 km";"196 Wh/km";"920 km/h";"All Wheel Drive";"5";"65990";"58295";65990.0;58295.0
+"BMW iX xDrive40";"Battery Electric Vehicle |       71 kWh";"6.1 sec";"200 km/h";"350 km";"203 Wh/km";"470 km/h";"All Wheel Drive";"5";"77300";"69905";77300.0;69905.0
+"BMW iX xDrive50";"Battery Electric Vehicle |       105.2 kWh";"4.6 sec";"200 km/h";"505 km";"208 Wh/km";"620 km/h";"All Wheel Drive";"5";"98000";"91905";98000.0;91905.0
+"MG MG5 Electric";"Battery Electric Vehicle |       57 kWh ";"8.3 sec";"180 km/h";"340 km";"168 Wh/km";"440 km/h";"Front Wheel Drive";"5";"35000";"";35000.0;0.0
+"MG Marvel R Performance";"Battery Electric Vehicle |       65 kWh ";"4.9 sec";"200 km/h";"330 km";"197 Wh/km";"380 km/h";"All Wheel Drive";"5";"50000";"";50000.0;0.0
+"Hyundai IONIQ 5 Standard Range 2WD";"Battery Electric Vehicle |       58 kWh ";"8.5 sec";"185 km/h";"310 km";"187 Wh/km";"720 km/h";"Rear Wheel Drive";"5";"41900";"36995";41900.0;36995.0
+"Hyundai IONIQ 5 Standard Range AWD";"Battery Electric Vehicle |       58 kWh ";"6.1 sec";"185 km/h";"305 km";"190 Wh/km";"710 km/h";"All Wheel Drive";"5";"45700";"";45700.0;0.0
+"Hyundai IONIQ 5 Long Range 2WD";"Battery Electric Vehicle |       72.6 kWh ";"7.4 sec";"185 km/h";"385 km";"189 Wh/km";"890 km/h";"Rear Wheel Drive";"5";"45100";"41945";45100.0;41945.0
+"Hyundai IONIQ 5 Long Range AWD";"Battery Electric Vehicle |       72.6 kWh ";"5.2 sec";"185 km/h";"375 km";"194 Wh/km";"870 km/h";"All Wheel Drive";"5";"48900";"45145";48900.0;45145.0
+"Kia EV6 Standard Range 2WD";"Battery Electric Vehicle |       58 kWh ";"8.5 sec";"185 km/h";"320 km";"181 Wh/km";"740 km/h";"Rear Wheel Drive";"5";"44990";"40985";44990.0;40985.0
+"Kia EV6 Long Range 2WD";"Battery Electric Vehicle |       77.4 kWh ";"7.5 sec";"185 km/h";"420 km";"184 Wh/km";"980 km/h";"Rear Wheel Drive";"5";"54990";"48000";54990.0;48000.0
+"Kia EV6 Long Range AWD";"Battery Electric Vehicle |       77.4 kWh ";"5.4 sec";"185 km/h";"410 km";"189 Wh/km";"950 km/h";"All Wheel Drive";"5";"56000";"52000";56000.0;52000.0
+"Mercedes EQS 450+";"Battery Electric Vehicle |       107.8 kWh";"6.2 sec";"210 km/h";"640 km";"168 Wh/km";"840 km/h";"Rear Wheel Drive";"5";"106374";"95000";106374.0;95000.0
+"Mercedes EQS 580 4MATIC";"Battery Electric Vehicle |       107.8 kWh";"4.3 sec";"210 km/h";"610 km";"177 Wh/km";"800 km/h";"All Wheel Drive";"5";"135529";"115000";135529.0;115000.0
+"Tesla Model 3 Standard Range Plus";"Battery Electric Vehicle |       50 kWh ";"5.6 sec";"225 km/h";"340 km";"147 Wh/km";"680 km/h";"Rear Wheel Drive";"5";"43560";"40990";43560.0;40990.0
+"Polestar 2 Standard Range Single Motor";"Battery Electric Vehicle |       61 kWh ";"7.4 sec";"160 km/h";"350 km";"174 Wh/km";"450 km/h";"Front Wheel Drive";"5";"46500";"39900";46500.0;39900.0
+"Polestar 2 Long Range Single Motor";"Battery Electric Vehicle |       75 kWh ";"7.4 sec";"160 km/h";"425 km";"176 Wh/km";"550 km/h";"Front Wheel Drive";"5";"49500";"42900";49500.0;42900.0
+"Polestar 2 Long Range Dual Motor";"Battery Electric Vehicle |       75 kWh ";"4.7 sec";"205 km/h";"395 km";"190 Wh/km";"510 km/h";"All Wheel Drive";"5";"52500";"45900";52500.0;45900.0
+"Volkswagen ID.4 Pure";"Battery Electric Vehicle |       52 kWh";"10.9 sec";"160 km/h";"285 km";"182 Wh/km";"410 km/h";"Rear Wheel Drive";"5";"36950";"32150";36950.0;32150.0
+"Audi Q4 e-tron 40";"Battery Electric Vehicle |       76.6 kWh";"8.5 sec";"160 km/h";"405 km";"189 Wh/km";"500 km/h";"Rear Wheel Drive";"5";"47500";"44990";47500.0;44990.0
+"Audi Q4 e-tron 50 quattro";"Battery Electric Vehicle |       76.6 kWh";"6.2 sec";"180 km/h";"385 km";"199 Wh/km";"470 km/h";"All Wheel Drive";"5";"53600";"51370";53600.0;51370.0
+"Audi Q4 Sportback e-tron 50 quattro";"Battery Electric Vehicle |       76.6 kWh";"6.2 sec";"180 km/h";"400 km";"192 Wh/km";"490 km/h";"All Wheel Drive";"5";"55600";"52870";55600.0;52870.0
+"Mercedes EQB 350 4MATIC";"Battery Electric Vehicle |       66.5 kWh";"6.5 sec";"160 km/h";"340 km";"196 Wh/km";"400 km/h";"All Wheel Drive";"7";"60000";"50000";60000.0;50000.0
+"Volkswagen ID.4 GTX";"Battery Electric Vehicle |       77 kWh";"6.2 sec";"180 km/h";"400 km";"193 Wh/km";"490 km/h";"All Wheel Drive";"5";"50415";"55540";50415.0;55540.0
+"Mercedes EQA 300 4MATIC";"Battery Electric Vehicle |       66.5 kWh";"7.7 sec";"160 km/h";"350 km";"190 Wh/km";"420 km/h";"All Wheel Drive";"5";"53538";"";53538.0;0.0
+"Mercedes EQA 350 4MATIC";"Battery Electric Vehicle |       66.5 kWh";"6.0 sec";"160 km/h";"350 km";"190 Wh/km";"420 km/h";"All Wheel Drive";"5";"56216";"";56216.0;0.0
+"Toyota PROACE Verso M 50 kWh";"Battery Electric Vehicle |       45 kWh ";"12.1 sec";"130 km/h";"185 km";"243 Wh/km";"250 km/h";"Front Wheel Drive";"7";"58530";"";58530.0;0.0
+"Toyota PROACE Verso L 50 kWh";"Battery Electric Vehicle |       45 kWh ";"12.1 sec";"130 km/h";"180 km";"250 Wh/km";"240 km/h";"Front Wheel Drive";"7";"59385";"";59385.0;0.0
+"Toyota PROACE Verso M 75 kWh";"Battery Electric Vehicle |       68 kWh ";"13.1 sec";"130 km/h";"270 km";"252 Wh/km";"290 km/h";"Front Wheel Drive";"7";"64530";"";64530.0;0.0
+"Toyota PROACE Verso L 75 kWh";"Battery Electric Vehicle |       68 kWh ";"13.1 sec";"130 km/h";"270 km";"252 Wh/km";"290 km/h";"Front Wheel Drive";"7";"65385";"";65385.0;0.0
+"CUPRA Born 150 kW - 62 kWh";"Battery Electric Vehicle |       58 kWh";"7.3 sec";"160 km/h";"350 km";"166 Wh/km";"440 km/h";"Rear Wheel Drive";"5";"36770";"30500";36770.0;30500.0
+"CUPRA Born 170 kW - 62 kWh";"Battery Electric Vehicle |       58 kWh";"6.6 sec";"160 km/h";"345 km";"168 Wh/km";"430 km/h";"Rear Wheel Drive";"5";"39000";"31500";39000.0;31500.0
+"CUPRA Born 170 kW - 82 kWh";"Battery Electric Vehicle |       77 kWh";"7.0 sec";"160 km/h";"450 km";"171 Wh/km";"550 km/h";"Rear Wheel Drive";"5";"43000";"42000";43000.0;42000.0
+"BMW i4 M50";"Battery Electric Vehicle |       80.7 kWh";"3.9 sec";"225 km/h";"450 km";"179 Wh/km";"630 km/h";"All Wheel Drive";"5";"69900";"63905";69900.0;63905.0
+"Volvo XC40 Recharge Twin Pure Electric";"Battery Electric Vehicle |       75 kWh";"4.9 sec";"180 km/h";"340 km";"221 Wh/km";"440 km/h";"All Wheel Drive";"5";"59250";"49950";59250.0;49950.0
+"Renault Megane E-Tech Electric";"Battery Electric Vehicle |       60 kWh ";"8.0 sec";"160 km/h";"335 km";"179 Wh/km";"480 km/h";"Front Wheel Drive";"5";"38000";"32500";38000.0;32500.0
+"Peugeot e-Rifter Standard 50 kWh";"Battery Electric Vehicle |       45 kWh ";"11.7 sec";"135 km/h";"200 km";"225 Wh/km";"270 km/h";"Front Wheel Drive";"7";"37590";"30375";37590.0;30375.0
+"Peugeot e-Rifter Long 50 kWh";"Battery Electric Vehicle |       45 kWh ";"11.7 sec";"135 km/h";"195 km";"231 Wh/km";"260 km/h";"Front Wheel Drive";"7";"42590";"32455";42590.0;32455.0
+"MG Marvel R ";"Battery Electric Vehicle |       65 kWh ";"7.9 sec";"200 km/h";"340 km";"191 Wh/km";"390 km/h";"Rear Wheel Drive";"5";"40000";"";40000.0;0.0
+"Tesla Model 3 Long Range Dual Motor";"Battery Electric Vehicle |       76 kWh ";"4.4 sec";"233 km/h";"490 km";"155 Wh/km";"820 km/h";"All Wheel Drive";"5";"53560";"";53560.0;0.0
+"MG MG5 EV Long Range";"Battery Electric Vehicle |       57 kWh ";"7.7 sec";"185 km/h";"340 km";"168 Wh/km";"340 km/h";"Front Wheel Drive";"5";"";"26495";0.0;26495.0
+"Audi Q4 e-tron 45 quattro";"Battery Electric Vehicle |       76.6 kWh";"6.9 sec";"180 km/h";"385 km";"199 Wh/km";"470 km/h";"All Wheel Drive";"5";"50900";"";50900.0;0.0
+"Audi Q4 Sportback e-tron 40";"Battery Electric Vehicle |       76.6 kWh";"8.5 sec";"160 km/h";"425 km";"180 Wh/km";"520 km/h";"Rear Wheel Drive";"5";"49500";"";49500.0;0.0
+"Opel Ampera-e ";"Battery Electric Vehicle |       58 kWh ";"7.3 sec";"150 km/h";"335 km";"173 Wh/km";"210 km/h";"Front Wheel Drive";"5";"42990";"";42990.0;0.0
+"Renault Kangoo Maxi ZE 33";"Battery Electric Vehicle |       31 kWh ";"22.4 sec";"130 km/h";"160 km";"194 Wh/km";"-";"Front Wheel Drive";"5";"";"31680";0.0;31680.0
+"Nissan Leaf ";"Battery Electric Vehicle |       36 kWh ";"7.9 sec";"144 km/h";"220 km";"164 Wh/km";"230 km/h";"Front Wheel Drive";"5";"29990";"25995";29990.0;25995.0
+"Audi e-tron Sportback 55 quattro";"Battery Electric Vehicle |       86.5 kWh";"5.7 sec";"200 km/h";"375 km";"231 Wh/km";"600 km/h";"All Wheel Drive";"5";"";"79900";0.0;79900.0
+"Porsche Taycan Turbo S";"Battery Electric Vehicle |       83.7 kWh";"2.8 sec";"260 km/h";"390 km";"215 Wh/km";"860 km/h";"All Wheel Drive";"4";"186336";"138830";186336.0;138830.0
+"Nissan e-NV200 Evalia ";"Battery Electric Vehicle |       36 kWh ";"14.0 sec";"123 km/h";"165 km";"218 Wh/km";"170 km/h";"Front Wheel Drive";"7";"43433";"30255";43433.0;30255.0
+"Volkswagen ID.3 Pure Performance";"Battery Electric Vehicle |       45 kWh";"8.9 sec";"160 km/h";"275 km";"164 Wh/km";"260 km/h";"Rear Wheel Drive";"5";"31960";"27120";31960.0;27120.0
+"BMW iX3 ";"Battery Electric Vehicle |       74 kWh";"6.8 sec";"180 km/h";"385 km";"192 Wh/km";"520 km/h";"Rear Wheel Drive";"5";"66300";"58850";66300.0;58850.0
+"Nissan Leaf e+";"Battery Electric Vehicle |       56 kWh ";"7.3 sec";"157 km/h";"325 km";"172 Wh/km";"390 km/h";"Front Wheel Drive";"5";"38350";"30445";38350.0;30445.0
+"BMW i3 120 Ah";"Battery Electric Vehicle |       37.9 kWh";"7.3 sec";"150 km/h";"235 km";"161 Wh/km";"270 km/h";"Rear Wheel Drive";"4";"39000";"31305";39000.0;31305.0
+"Mercedes EQA 250";"Battery Electric Vehicle |       66.5 kWh";"8.9 sec";"160 km/h";"355 km";"187 Wh/km";"420 km/h";"Front Wheel Drive";"5";"47541";"43495";47541.0;43495.0
+"DS 3 Crossback E-Tense";"Battery Electric Vehicle |       45 kWh ";"8.7 sec";"150 km/h";"250 km";"180 Wh/km";"330 km/h";"Front Wheel Drive";"5";"30040";"31500";30040.0;31500.0
+"BMW i3s 120 Ah";"Battery Electric Vehicle |       37.9 kWh";"6.9 sec";"160 km/h";"230 km";"165 Wh/km";"260 km/h";"Rear Wheel Drive";"4";"42600";"32305";42600.0;32305.0
+"Sono Sion ";"Battery Electric Vehicle |       47 kWh ";"9.0 sec";"140 km/h";"260 km";"181 Wh/km";"310 km/h";"Front Wheel Drive";"5";"25500";"";25500.0;0.0
+"Audi e-tron GT RS";"Battery Electric Vehicle |       85 kWh";"3.3 sec";"250 km/h";"405 km";"210 Wh/km";"810 km/h";"All Wheel Drive";"4";"138200";"110950";138200.0;110950.0
+"Kia e-Soul 64 kWh";"Battery Electric Vehicle |       64 kWh";"7.9 sec";"167 km/h";"370 km";"173 Wh/km";"350 km/h";"Front Wheel Drive";"5";"";"37545";0.0;37545.0
+"Renault Zoe ZE50 R110";"Battery Electric Vehicle |       52 kWh";"11.4 sec";"135 km/h";"315 km";"165 Wh/km";"230 km/h";"Front Wheel Drive";"5";"31990";"26795";31990.0;26795.0
+"Hyundai IONIQ Electric";"Battery Electric Vehicle |       38.3 kWh";"9.7 sec";"165 km/h";"250 km";"153 Wh/km";"220 km/h";"Front Wheel Drive";"5";"35350";"30550";35350.0;30550.0
+"Lightyear One ";"Battery Electric Vehicle |       60 kWh ";"10.0 sec";"150 km/h";"575 km";"104 Wh/km";"540 km/h";"All Wheel Drive";"5";"149000";"";149000.0;0.0
+"Tesla Roadster ";"Battery Electric Vehicle |       200 kWh ";"2.1 sec";"410 km/h";"970 km";"206 Wh/km";"920 km/h";"All Wheel Drive";"4";"215000";"189000";215000.0;189000.0
+"Peugeot e-208 ";"Battery Electric Vehicle |       45 kWh ";"8.1 sec";"150 km/h";"275 km";"164 Wh/km";"370 km/h";"Front Wheel Drive";"5";"30450";"27225";30450.0;27225.0
+"Honda e ";"Battery Electric Vehicle |       28.5 kWh ";"9.0 sec";"145 km/h";"170 km";"168 Wh/km";"190 km/h";"Rear Wheel Drive";"4";"33850";"27660";33850.0;27660.0
+"CUPRA Born 110 kW - 55 kWh";"Battery Electric Vehicle |       45 kWh";"8.9 sec";"160 km/h";"275 km";"164 Wh/km";"440 km/h";"Rear Wheel Drive";"5";"32700";"28500";32700.0;28500.0
+"Audi Q4 e-tron 35";"Battery Electric Vehicle |       51.5 kWh";"9.0 sec";"160 km/h";"280 km";"184 Wh/km";"390 km/h";"Rear Wheel Drive";"5";"41900";"40750";41900.0;40750.0
+"Tesla Model Y Long Range Dual Motor";"Battery Electric Vehicle |       76 kWh ";"5.1 sec";"217 km/h";"450 km";"169 Wh/km";"750 km/h";"All Wheel Drive";"7";"59965";"54000";59965.0;54000.0
+"Tesla Model Y Performance";"Battery Electric Vehicle |       76 kWh ";"3.7 sec";"241 km/h";"430 km";"177 Wh/km";"720 km/h";"All Wheel Drive";"7";"66965";"60000";66965.0;60000.0
+"Porsche Taycan 4 Cross Turismo";"Battery Electric Vehicle |       83.7 kWh";"5.1 sec";"220 km/h";"405 km";"207 Wh/km";"850 km/h";"All Wheel Drive";"4";"93635";"79340";93635.0;79340.0
+"Skoda Enyaq iV 50";"Battery Electric Vehicle |       52 kWh";"11.3 sec";"160 km/h";"295 km";"176 Wh/km";"240 km/h";"Rear Wheel Drive";"5";"33800";"";33800.0;0.0
+"Volkswagen e-Up! ";"Battery Electric Vehicle |       32.3 kWh";"11.9 sec";"130 km/h";"205 km";"158 Wh/km";"170 km/h";"Front Wheel Drive";"4";"";"";0.0;0.0
+"SEAT Mii Electric ";"Battery Electric Vehicle |       32.3 kWh";"12.3 sec";"130 km/h";"205 km";"158 Wh/km";"170 km/h";"Front Wheel Drive";"4";"24650";"";24650.0;0.0
+"Opel Corsa-e ";"Battery Electric Vehicle |       45 kWh ";"8.1 sec";"150 km/h";"275 km";"164 Wh/km";"370 km/h";"Front Wheel Drive";"5";"29000";"27140";29000.0;27140.0
+"MG ZS EV";"Battery Electric Vehicle |       42.5 kWh ";"8.2 sec";"140 km/h";"220 km";"193 Wh/km";"260 km/h";"Front Wheel Drive";"5";"31990";"25995";31990.0;25995.0
+"Volkswagen ID.3 Pro";"Battery Electric Vehicle |       58 kWh";"9.6 sec";"160 km/h";"350 km";"166 Wh/km";"440 km/h";"Rear Wheel Drive";"5";"34995";"28420";34995.0;28420.0
+"Volkswagen ID.3 Pro S";"Battery Electric Vehicle |       77 kWh";"7.9 sec";"160 km/h";"450 km";"171 Wh/km";"550 km/h";"Rear Wheel Drive";"4";"41995";"38800";41995.0;38800.0
+"Hyundai Kona Electric 64 kWh";"Battery Electric Vehicle |       64 kWh";"7.9 sec";"167 km/h";"395 km";"162 Wh/km";"370 km/h";"Front Wheel Drive";"5";"41850";"";41850.0;0.0
+"Renault Zoe ZE50 R135";"Battery Electric Vehicle |       52 kWh";"9.5 sec";"140 km/h";"310 km";"168 Wh/km";"230 km/h";"Front Wheel Drive";"5";"33990";"28795";33990.0;28795.0
+"Peugeot e-2008 SUV ";"Battery Electric Vehicle |       45 kWh ";"8.5 sec";"150 km/h";"250 km";"180 Wh/km";"330 km/h";"Front Wheel Drive";"5";"35450";"30730";35450.0;30730.0
+"Audi e-tron 50 quattro";"Battery Electric Vehicle |       64.7 kWh";"6.8 sec";"190 km/h";"280 km";"231 Wh/km";"470 km/h";"All Wheel Drive";"5";"69100";"60600";69100.0;60600.0
+"Porsche Taycan Turbo";"Battery Electric Vehicle |       83.7 kWh";"3.2 sec";"260 km/h";"400 km";"209 Wh/km";"840 km/h";"All Wheel Drive";"4";"153016";"115860";153016.0;115860.0
+"Smart EQ fortwo coupe";"Battery Electric Vehicle |       16.7 kWh ";"11.6 sec";"130 km/h";"100 km";"167 Wh/km";"-";"Rear Wheel Drive";"2";"18460";"19200";18460.0;19200.0
+"Smart EQ fortwo cabrio";"Battery Electric Vehicle |       16.7 kWh ";"11.9 sec";"130 km/h";"95 km";"176 Wh/km";"-";"Rear Wheel Drive";"2";"21720";"21620";21720.0;21620.0
+"Smart EQ forfour ";"Battery Electric Vehicle |       16.7 kWh ";"12.7 sec";"130 km/h";"95 km";"176 Wh/km";"-";"Rear Wheel Drive";"4";"19120";"19795";19120.0;19795.0
+"Honda e Advance";"Battery Electric Vehicle |       28.5 kWh ";"8.3 sec";"145 km/h";"170 km";"168 Wh/km";"190 km/h";"Rear Wheel Drive";"4";"38000";"30160";38000.0;30160.0
+"Byton M-Byte 72 kWh 2WD";"Battery Electric Vehicle |       72 kWh ";"7.5 sec";"190 km/h";"325 km";"222 Wh/km";"420 km/h";"Rear Wheel Drive";"5";"53500";"50000";53500.0;50000.0
+"Byton M-Byte 95 kWh 4WD";"Battery Electric Vehicle |       95 kWh ";"5.5 sec";"190 km/h";"390 km";"244 Wh/km";"460 km/h";"All Wheel Drive";"5";"64000";"60000";64000.0;60000.0
+"Renault Zoe ZE40 R110";"Battery Electric Vehicle |       41 kWh";"11.4 sec";"135 km/h";"255 km";"161 Wh/km";"230 km/h";"Front Wheel Drive";"5";"29990";"";29990.0;0.0
+"Porsche Taycan 4S";"Battery Electric Vehicle |       71 kWh";"4.0 sec";"250 km/h";"375 km";"189 Wh/km";"750 km/h";"All Wheel Drive";"4";"106487";"83580";106487.0;83580.0
+"Porsche Taycan 4S Plus";"Battery Electric Vehicle |       83.7 kWh";"4.0 sec";"250 km/h";"435 km";"192 Wh/km";"910 km/h";"All Wheel Drive";"4";"113008";"88193";113008.0;88193.0
+"Hyundai Kona Electric 39 kWh";"Battery Electric Vehicle |       39.2 kWh";"9.9 sec";"155 km/h";"250 km";"157 Wh/km";"210 km/h";"Front Wheel Drive";"5";"34850";"";34850.0;0.0
+"Mercedes EQV 300 Long";"Battery Electric Vehicle |       90 kWh";"12.1 sec";"160 km/h";"320 km";"281 Wh/km";"280 km/h";"Front Wheel Drive";"7";"71388";"70665";71388.0;70665.0
+"Mazda MX-30 ";"Battery Electric Vehicle |       30 kWh ";"9.7 sec";"140 km/h";"170 km";"176 Wh/km";"180 km/h";"Front Wheel Drive";"5";"34490";"26045";34490.0;26045.0
+"Ford Mustang Mach-E SR RWD";"Battery Electric Vehicle |       68 kWh";"6.9 sec";"180 km/h";"345 km";"197 Wh/km";"380 km/h";"Rear Wheel Drive";"5";"46900";"41330";46900.0;41330.0
+"Ford Mustang Mach-E ER RWD";"Battery Electric Vehicle |       88 kWh";"7.0 sec";"180 km/h";"440 km";"200 Wh/km";"430 km/h";"Rear Wheel Drive";"5";"54475";"49980";54475.0;49980.0
+"Ford Mustang Mach-E SR AWD";"Battery Electric Vehicle |       68 kWh";"6.3 sec";"180 km/h";"330 km";"206 Wh/km";"360 km/h";"All Wheel Drive";"5";"54000";"46650";54000.0;46650.0
+"Ford Mustang Mach-E ER AWD";"Battery Electric Vehicle |       88 kWh";"5.8 sec";"180 km/h";"420 km";"210 Wh/km";"410 km/h";"All Wheel Drive";"5";"62900";"57030";62900.0;57030.0
+"Ford Mustang Mach-E GT";"Battery Electric Vehicle |       88 kWh";"4.4 sec";"200 km/h";"410 km";"215 Wh/km";"400 km/h";"All Wheel Drive";"5";"";"67225";0.0;67225.0
+"Audi e-tron Sportback 50 quattro";"Battery Electric Vehicle |       64.7 kWh";"6.8 sec";"190 km/h";"295 km";"219 Wh/km";"490 km/h";"All Wheel Drive";"5";"71350";"69100";71350.0;69100.0
+"Tesla Cybertruck Single Motor";"Battery Electric Vehicle |       100 kWh ";"7.0 sec";"180 km/h";"390 km";"256 Wh/km";"740 km/h";"Rear Wheel Drive";"7";"45000";"39000";45000.0;39000.0
+"Tesla Cybertruck Dual Motor";"Battery Electric Vehicle |       120 kWh ";"5.0 sec";"190 km/h";"460 km";"261 Wh/km";"710 km/h";"All Wheel Drive";"7";"55000";"48000";55000.0;48000.0
+"Tesla Cybertruck Tri Motor";"Battery Electric Vehicle |       200 kWh ";"3.0 sec";"210 km/h";"750 km";"267 Wh/km";"710 km/h";"All Wheel Drive";"7";"75000";"68000";75000.0;68000.0
+"Lexus UX 300e";"Battery Electric Vehicle |       50 kWh ";"7.5 sec";"160 km/h";"260 km";"192 Wh/km";"150 km/h";"Front Wheel Drive";"5";"47550";"43900";47550.0;43900.0
+"BMW i4 eDrive40";"Battery Electric Vehicle |       80.7 kWh";"5.7 sec";"190 km/h";"475 km";"170 Wh/km";"660 km/h";"Rear Wheel Drive";"5";"58300";"51905";58300.0;51905.0
+"Audi e-tron 55 quattro";"Battery Electric Vehicle |       86.5 kWh";"5.7 sec";"200 km/h";"365 km";"237 Wh/km";"590 km/h";"All Wheel Drive";"5";"";"71500";0.0;71500.0
+"Aiways U5 ";"Battery Electric Vehicle |       63 kWh ";"7.5 sec";"150 km/h";"335 km";"188 Wh/km";"350 km/h";"Front Wheel Drive";"5";"35993";"";35993.0;0.0
+"Renault Twingo Electric";"Battery Electric Vehicle |       21.3 kWh";"12.6 sec";"135 km/h";"130 km";"164 Wh/km";"-";"Rear Wheel Drive";"4";"24790";"";24790.0;0.0
+"Audi e-tron S 55 quattro";"Battery Electric Vehicle |       86.5 kWh";"4.5 sec";"210 km/h";"320 km";"270 Wh/km";"510 km/h";"All Wheel Drive";"5";"93800";"87000";93800.0;87000.0
+"Audi e-tron S Sportback 55 quattro";"Battery Electric Vehicle |       86.5 kWh";"4.5 sec";"210 km/h";"335 km";"258 Wh/km";"540 km/h";"All Wheel Drive";"5";"96050";"88700";96050.0;88700.0
+"Volkswagen ID.4 1st";"Battery Electric Vehicle |       77 kWh";"8.5 sec";"160 km/h";"410 km";"188 Wh/km";"500 km/h";"Rear Wheel Drive";"5";"";"40800";0.0;40800.0
+"Byton M-Byte 95 kWh 2WD";"Battery Electric Vehicle |       95 kWh ";"7.5 sec";"190 km/h";"400 km";"238 Wh/km";"480 km/h";"Rear Wheel Drive";"5";"62000";"57500";62000.0;57500.0
+"Fiat 500e Cabrio";"Battery Electric Vehicle |       37.3 kWh ";"9.0 sec";"150 km/h";"245 km";"152 Wh/km";"410 km/h";"Front Wheel Drive";"4";"30560";"26645";30560.0;26645.0
+"Opel Mokka-e ";"Battery Electric Vehicle |       45 kWh ";"8.5 sec";"150 km/h";"255 km";"176 Wh/km";"340 km/h";"Front Wheel Drive";"5";"34110";"30540";34110.0;30540.0
+"Skoda Enyaq iV 60";"Battery Electric Vehicle |       58 kWh";"8.7 sec";"160 km/h";"330 km";"176 Wh/km";"420 km/h";"Rear Wheel Drive";"5";"38850";"31995";38850.0;31995.0
+"Skoda Enyaq iV 80";"Battery Electric Vehicle |       77 kWh";"8.6 sec";"160 km/h";"420 km";"183 Wh/km";"510 km/h";"Rear Wheel Drive";"5";"43950";"39350";43950.0;39350.0
+"Skoda Enyaq iV 80X";"Battery Electric Vehicle |       77 kWh";"6.9 sec";"160 km/h";"405 km";"190 Wh/km";"500 km/h";"All Wheel Drive";"5";"47000";"42000";47000.0;42000.0
+"Skoda Enyaq iV RS";"Battery Electric Vehicle |       77 kWh";"6.2 sec";"180 km/h";"395 km";"195 Wh/km";"480 km/h";"All Wheel Drive";"5";"50000";"45000";50000.0;45000.0
+"Fiat 500e Hatchback 42 kWh";"Battery Electric Vehicle |       37.3 kWh ";"9.0 sec";"150 km/h";"250 km";"149 Wh/km";"420 km/h";"Front Wheel Drive";"4";"27560";"23995";27560.0;23995.0
+"Citroen e-C4 ";"Battery Electric Vehicle |       45 kWh ";"9.7 sec";"150 km/h";"250 km";"180 Wh/km";"330 km/h";"Front Wheel Drive";"5";"34640";"30895";34640.0;30895.0
+"Jaguar I-Pace EV400";"Battery Electric Vehicle |       84.7 kWh";"4.8 sec";"200 km/h";"365 km";"232 Wh/km";"340 km/h";"All Wheel Drive";"5";"77300";"65195";77300.0;65195.0
+"Kia e-Soul 64 kWh";"Battery Electric Vehicle |       64 kWh";"7.9 sec";"167 km/h";"370 km";"173 Wh/km";"350 km/h";"Front Wheel Drive";"5";"37790";"";37790.0;0.0
+"Kia e-Soul 39 kWh";"Battery Electric Vehicle |       39.2 kWh";"9.9 sec";"157 km/h";"230 km";"170 Wh/km";"220 km/h";"Front Wheel Drive";"5";"33990";"";33990.0;0.0
+"Audi Q4 Sportback e-tron 35";"Battery Electric Vehicle |       51.5 kWh";"9.0 sec";"160 km/h";"295 km";"175 Wh/km";"410 km/h";"Rear Wheel Drive";"5";"43900";"42250";43900.0;42250.0
+"Nissan Ariya 63kWh";"Battery Electric Vehicle |       63 kWh";"7.5 sec";"160 km/h";"335 km";"188 Wh/km";"450 km/h";"Front Wheel Drive";"5";"45000";"40000";45000.0;40000.0
+"Nissan Ariya 87kWh";"Battery Electric Vehicle |       87 kWh";"7.6 sec";"160 km/h";"445 km";"196 Wh/km";"530 km/h";"Front Wheel Drive";"5";"50000";"45000";50000.0;45000.0
+"Nissan Ariya e-4ORCE 63kWh";"Battery Electric Vehicle |       63 kWh";"5.9 sec";"200 km/h";"325 km";"194 Wh/km";"440 km/h";"All Wheel Drive";"5";"50000";"45000";50000.0;45000.0
+"Nissan Ariya e-4ORCE 87kWh";"Battery Electric Vehicle |       87 kWh";"5.7 sec";"200 km/h";"420 km";"207 Wh/km";"500 km/h";"All Wheel Drive";"5";"57500";"52500";57500.0;52500.0
+"Nissan Ariya e-4ORCE 87kWh Performance";"Battery Electric Vehicle |       87 kWh";"5.1 sec";"200 km/h";"385 km";"226 Wh/km";"460 km/h";"All Wheel Drive";"5";"65000";"57500";65000.0;57500.0
+"Volkswagen ID.3 Pro Performance";"Battery Electric Vehicle |       58 kWh";"7.3 sec";"160 km/h";"350 km";"166 Wh/km";"440 km/h";"Rear Wheel Drive";"5";"36495";"29740";36495.0;29740.0
+"MG MG5 EV";"Battery Electric Vehicle |       48.8 kWh";"7.7 sec";"185 km/h";"295 km";"165 Wh/km";"340 km/h";"Front Wheel Drive";"5";"";"25095";0.0;25095.0
+"Volkswagen ID.4 Pro Performance";"Battery Electric Vehicle |       77 kWh";"8.5 sec";"160 km/h";"410 km";"188 Wh/km";"500 km/h";"Rear Wheel Drive";"5";"44450";"41570";44450.0;41570.0
+"Mercedes EQV 300 Extra-Long";"Battery Electric Vehicle |       90 kWh";"12.1 sec";"160 km/h";"320 km";"281 Wh/km";"280 km/h";"Front Wheel Drive";"7";"72281";"";72281.0;0.0
+"Lucid Air Grand Touring";"Battery Electric Vehicle |       110 kWh ";"3.2 sec";"270 km/h";"660 km";"167 Wh/km";"1380 km/h";"All Wheel Drive";"5";"140000";"125000";140000.0;125000.0
+"Lucid Air Touring";"Battery Electric Vehicle |       85 kWh ";"3.4 sec";"250 km/h";"530 km";"160 Wh/km";"1390 km/h";"All Wheel Drive";"5";"95000";"90000";95000.0;90000.0
+"Lucid Air Pure";"Battery Electric Vehicle |       85 kWh ";"4.2 sec";"200 km/h";"540 km";"157 Wh/km";"1410 km/h";"Rear Wheel Drive";"5";"80000";"70000";80000.0;70000.0
+"Dacia Spring Electric";"Battery Electric Vehicle |       26.8 kWh ";"15.0 sec";"125 km/h";"170 km";"158 Wh/km";"120 km/h";"Front Wheel Drive";"4";"20490";"";20490.0;0.0
+"Tesla Model 3 Standard Range Plus LFP";"Battery Electric Vehicle |       51 kWh ";"5.6 sec";"225 km/h";"340 km";"150 Wh/km";"570 km/h";"Rear Wheel Drive";"5";"43560";"40990";43560.0;40990.0
+"Tesla Model 3 Long Range Dual Motor";"Battery Electric Vehicle |       70 kWh ";"4.4 sec";"233 km/h";"455 km";"154 Wh/km";"570 km/h";"All Wheel Drive";"5";"";"48490";0.0;48490.0
+"Tesla Model 3 Performance";"Battery Electric Vehicle |       76 kWh ";"3.3 sec";"261 km/h";"470 km";"162 Wh/km";"790 km/h";"All Wheel Drive";"5";"58560";"59990";58560.0;59990.0
+"Fiat 500e Hatchback 24 kWh";"Battery Electric Vehicle |       23.8 kWh ";"9.5 sec";"135 km/h";"165 km";"144 Wh/km";"260 km/h";"Front Wheel Drive";"4";"23560";"20495";23560.0;20495.0
+"Fiat 500e 3+1";"Battery Electric Vehicle |       37.3 kWh ";"9.0 sec";"150 km/h";"245 km";"152 Wh/km";"410 km/h";"Front Wheel Drive";"4";"29560";"";29560.0;0.0
+"Mercedes EQC 400 4MATIC";"Battery Electric Vehicle |       80 kWh";"5.1 sec";"180 km/h";"370 km";"216 Wh/km";"440 km/h";"All Wheel Drive";"5";"66069";"65720";66069.0;65720.0
+"Kia e-Niro 64 kWh";"Battery Electric Vehicle |       64 kWh";"7.8 sec";"167 km/h";"370 km";"173 Wh/km";"350 km/h";"Front Wheel Drive";"5";"39090";"32445";39090.0;32445.0
+"Kia e-Niro 39 kWh";"Battery Electric Vehicle |       39.2 kWh";"9.8 sec";"155 km/h";"235 km";"167 Wh/km";"230 km/h";"Front Wheel Drive";"5";"35290";"30345";35290.0;30345.0
+"Citroen e-SpaceTourer XS 50 kWh";"Battery Electric Vehicle |       45 kWh ";"12.1 sec";"130 km/h";"185 km";"243 Wh/km";"250 km/h";"Front Wheel Drive";"7";"50880";"";50880.0;0.0
+"Citroen e-SpaceTourer M 50 kWh";"Battery Electric Vehicle |       45 kWh ";"12.1 sec";"130 km/h";"185 km";"243 Wh/km";"250 km/h";"Front Wheel Drive";"7";"51440";"31995";51440.0;31995.0
+"Citroen e-SpaceTourer XL 50 kWh";"Battery Electric Vehicle |       45 kWh ";"12.1 sec";"130 km/h";"180 km";"250 Wh/km";"240 km/h";"Front Wheel Drive";"7";"52230";"";52230.0;0.0
+"Citroen e-SpaceTourer M 75 kWh";"Battery Electric Vehicle |       68 kWh ";"13.3 sec";"130 km/h";"270 km";"252 Wh/km";"290 km/h";"Front Wheel Drive";"7";"57440";"";57440.0;0.0
+"Citroen e-SpaceTourer XL 75 kWh";"Battery Electric Vehicle |       68 kWh ";"13.3 sec";"130 km/h";"270 km";"252 Wh/km";"290 km/h";"Front Wheel Drive";"7";"58230";"";58230.0;0.0
+"Opel Zafira-e Life S 50 kWh";"Battery Electric Vehicle |       45 kWh ";"12.1 sec";"130 km/h";"185 km";"243 Wh/km";"250 km/h";"Front Wheel Drive";"7";"56700";"";56700.0;0.0
+"Opel Zafira-e Life M 50 kWh";"Battery Electric Vehicle |       45 kWh ";"12.1 sec";"130 km/h";"185 km";"243 Wh/km";"250 km/h";"Front Wheel Drive";"7";"53800";"";53800.0;0.0
+"Opel Zafira-e Life L 50 kWh";"Battery Electric Vehicle |       45 kWh ";"12.1 sec";"130 km/h";"180 km";"250 Wh/km";"240 km/h";"Front Wheel Drive";"7";"54625";"49465";54625.0;49465.0
+"Opel Zafira-e Life M 75 kWh";"Battery Electric Vehicle |       68 kWh ";"13.3 sec";"130 km/h";"270 km";"252 Wh/km";"290 km/h";"Front Wheel Drive";"7";"59800";"";59800.0;0.0
+"Opel Zafira-e Life L 75 kWh";"Battery Electric Vehicle |       68 kWh ";"13.3 sec";"130 km/h";"270 km";"252 Wh/km";"290 km/h";"Front Wheel Drive";"7";"60625";"";60625.0;0.0
+"Peugeot e-Traveller Compact 50 kWh";"Battery Electric Vehicle |       45 kWh ";"12.1 sec";"130 km/h";"185 km";"243 Wh/km";"250 km/h";"Front Wheel Drive";"7";"50880";"";50880.0;0.0
+"Peugeot e-Traveller Standard 50 kWh";"Battery Electric Vehicle |       45 kWh ";"13.1 sec";"130 km/h";"185 km";"243 Wh/km";"250 km/h";"Front Wheel Drive";"7";"55900";"49065";55900.0;49065.0
+"Peugeot e-Traveller Long 50 kWh";"Battery Electric Vehicle |       45 kWh ";"13.1 sec";"130 km/h";"185 km";"243 Wh/km";"250 km/h";"Front Wheel Drive";"7";"56690";"49905";56690.0;49905.0
+"Peugeot e-Traveller Standard 75 kWh";"Battery Electric Vehicle |       68 kWh ";"13.3 sec";"130 km/h";"270 km";"252 Wh/km";"290 km/h";"Front Wheel Drive";"7";"57440";"";57440.0;0.0
+"Peugeot e-Traveller Long 75 kWh";"Battery Electric Vehicle |       68 kWh ";"13.3 sec";"130 km/h";"270 km";"252 Wh/km";"290 km/h";"Front Wheel Drive";"7";"58230";"";58230.0;0.0
+"Audi e-tron 55 quattro";"Battery Electric Vehicle |       86.5 kWh";"5.7 sec";"200 km/h";"365 km";"237 Wh/km";"590 km/h";"All Wheel Drive";"5";"81500";"";81500.0;0.0
+"Audi e-tron Sportback 55 quattro";"Battery Electric Vehicle |       86.5 kWh";"5.7 sec";"200 km/h";"375 km";"231 Wh/km";"600 km/h";"All Wheel Drive";"5";"83750";"";83750.0;0.0
+"Seres 3 ";"Battery Electric Vehicle |       52 kWh ";"8.9 sec";"155 km/h";"270 km";"193 Wh/km";"390 km/h";"Front Wheel Drive";"5";"";"";0.0;0.0
+"Hyundai IONIQ 5 Project 45";"Battery Electric Vehicle |       72.6 kWh ";"5.2 sec";"185 km/h";"370 km";"196 Wh/km";"860 km/h";"All Wheel Drive";"5";"59550";"48000";59550.0;48000.0
+"Porsche Taycan ";"Battery Electric Vehicle |       71 kWh";"5.4 sec";"230 km/h";"395 km";"180 Wh/km";"790 km/h";"Rear Wheel Drive";"4";"83520";"70690";83520.0;70690.0
+"Porsche Taycan Plus";"Battery Electric Vehicle |       83.7 kWh";"5.4 sec";"230 km/h";"460 km";"182 Wh/km";"960 km/h";"Rear Wheel Drive";"4";"89244";"74739";89244.0;74739.0
+"Tesla Model S Long Range";"Battery Electric Vehicle |       90 kWh ";"3.2 sec";"250 km/h";"555 km";"162 Wh/km";"830 km/h";"All Wheel Drive";"5";"86990";"83980";86990.0;83980.0
+"Tesla Model S Plaid";"Battery Electric Vehicle |       90 kWh ";"2.1 sec";"322 km/h";"535 km";"168 Wh/km";"800 km/h";"All Wheel Drive";"5";"126990";"118980";126990.0;118980.0
+"Tesla Model X Long Range";"Battery Electric Vehicle |       90 kWh ";"3.9 sec";"250 km/h";"475 km";"189 Wh/km";"710 km/h";"All Wheel Drive";"7";"95990";"90980";95990.0;90980.0
+"Tesla Model X Plaid";"Battery Electric Vehicle |       90 kWh ";"2.6 sec";"262 km/h";"455 km";"198 Wh/km";"680 km/h";"All Wheel Drive";"7";"116990";"110980";116990.0;110980.0
+"Mini Cooper SE ";"Battery Electric Vehicle |       28.9 kWh";"7.3 sec";"150 km/h";"185 km";"156 Wh/km";"260 km/h";"Front Wheel Drive";"4";"32500";"26000";32500.0;26000.0
+"JAC iEV7s ";"Battery Electric Vehicle |       39 kWh";"12.0 sec";"132 km/h";"225 km";"173 Wh/km";"160 km/h";"Front Wheel Drive";"5";"";"";0.0;0.0
+"Volkswagen ID.4 Pure Performance";"Battery Electric Vehicle |       52 kWh";"9.0 sec";"160 km/h";"285 km";"182 Wh/km";"410 km/h";"Rear Wheel Drive";"5";"38450";"36030";38450.0;36030.0
+"Audi e-tron GT quattro";"Battery Electric Vehicle |       85 kWh";"4.1 sec";"245 km/h";"420 km";"202 Wh/km";"840 km/h";"All Wheel Drive";"4";"99800";"79900";99800.0;79900.0
+"Volvo C40 Recharge";"Battery Electric Vehicle |       75 kWh";"4.7 sec";"180 km/h";"340 km";"221 Wh/km";"440 km/h";"All Wheel Drive";"5";"62050";"57400";62050.0;57400.0
+"Hyundai Kona Electric 39 kWh";"Battery Electric Vehicle |       39.2 kWh";"9.9 sec";"155 km/h";"250 km";"157 Wh/km";"210 km/h";"Front Wheel Drive";"5";"35650";"27950";35650.0;27950.0
+"Hyundai Kona Electric 64 kWh";"Battery Electric Vehicle |       64 kWh";"7.9 sec";"167 km/h";"395 km";"162 Wh/km";"370 km/h";"Front Wheel Drive";"5";"41850";"32550";41850.0;32550.0
+"Porsche Taycan 4S Cross Turismo";"Battery Electric Vehicle |       83.7 kWh";"4.1 sec";"240 km/h";"405 km";"207 Wh/km";"850 km/h";"All Wheel Drive";"4";"111842";"87820";111842.0;87820.0
+"Porsche Taycan Turbo Cross Turismo";"Battery Electric Vehicle |       83.7 kWh";"3.3 sec";"250 km/h";"385 km";"217 Wh/km";"800 km/h";"All Wheel Drive";"4";"154444";"116950";154444.0;116950.0
+"Porsche Taycan Turbo S Cross Turismo";"Battery Electric Vehicle |       83.7 kWh";"2.9 sec";"250 km/h";"380 km";"220 Wh/km";"790 km/h";"All Wheel Drive";"4";"187746";"139910";187746.0;139910.0
+"Kia EV6 GT";"Battery Electric Vehicle |       77.4 kWh ";"3.5 sec";"260 km/h";"395 km";"196 Wh/km";"920 km/h";"All Wheel Drive";"5";"65990";"58295";65990.0;58295.0
+"BMW iX xDrive40";"Battery Electric Vehicle |       71 kWh";"6.1 sec";"200 km/h";"350 km";"203 Wh/km";"470 km/h";"All Wheel Drive";"5";"77300";"69905";77300.0;69905.0
+"BMW iX xDrive50";"Battery Electric Vehicle |       105.2 kWh";"4.6 sec";"200 km/h";"505 km";"208 Wh/km";"620 km/h";"All Wheel Drive";"5";"98000";"91905";98000.0;91905.0
+"MG MG5 Electric";"Battery Electric Vehicle |       57 kWh ";"8.3 sec";"180 km/h";"340 km";"168 Wh/km";"440 km/h";"Front Wheel Drive";"5";"35000";"";35000.0;0.0
+"MG Marvel R Performance";"Battery Electric Vehicle |       65 kWh ";"4.9 sec";"200 km/h";"330 km";"197 Wh/km";"380 km/h";"All Wheel Drive";"5";"50000";"";50000.0;0.0
+"Hyundai IONIQ 5 Standard Range 2WD";"Battery Electric Vehicle |       58 kWh ";"8.5 sec";"185 km/h";"310 km";"187 Wh/km";"720 km/h";"Rear Wheel Drive";"5";"41900";"36995";41900.0;36995.0
+"Hyundai IONIQ 5 Standard Range AWD";"Battery Electric Vehicle |       58 kWh ";"6.1 sec";"185 km/h";"305 km";"190 Wh/km";"710 km/h";"All Wheel Drive";"5";"45700";"";45700.0;0.0
+"Hyundai IONIQ 5 Long Range 2WD";"Battery Electric Vehicle |       72.6 kWh ";"7.4 sec";"185 km/h";"385 km";"189 Wh/km";"890 km/h";"Rear Wheel Drive";"5";"45100";"41945";45100.0;41945.0
+"Hyundai IONIQ 5 Long Range AWD";"Battery Electric Vehicle |       72.6 kWh ";"5.2 sec";"185 km/h";"375 km";"194 Wh/km";"870 km/h";"All Wheel Drive";"5";"48900";"45145";48900.0;45145.0
+"Kia EV6 Standard Range 2WD";"Battery Electric Vehicle |       58 kWh ";"8.5 sec";"185 km/h";"320 km";"181 Wh/km";"740 km/h";"Rear Wheel Drive";"5";"44990";"40985";44990.0;40985.0
+"Kia EV6 Long Range 2WD";"Battery Electric Vehicle |       77.4 kWh ";"7.5 sec";"185 km/h";"420 km";"184 Wh/km";"980 km/h";"Rear Wheel Drive";"5";"54990";"48000";54990.0;48000.0
+"Kia EV6 Long Range AWD";"Battery Electric Vehicle |       77.4 kWh ";"5.4 sec";"185 km/h";"410 km";"189 Wh/km";"950 km/h";"All Wheel Drive";"5";"56000";"52000";56000.0;52000.0
+"Mercedes EQS 450+";"Battery Electric Vehicle |       107.8 kWh";"6.2 sec";"210 km/h";"640 km";"168 Wh/km";"840 km/h";"Rear Wheel Drive";"5";"106374";"95000";106374.0;95000.0
+"Mercedes EQS 580 4MATIC";"Battery Electric Vehicle |       107.8 kWh";"4.3 sec";"210 km/h";"610 km";"177 Wh/km";"800 km/h";"All Wheel Drive";"5";"135529";"115000";135529.0;115000.0
+"Tesla Model 3 Standard Range Plus";"Battery Electric Vehicle |       50 kWh ";"5.6 sec";"225 km/h";"340 km";"147 Wh/km";"680 km/h";"Rear Wheel Drive";"5";"43560";"40990";43560.0;40990.0
+"Polestar 2 Standard Range Single Motor";"Battery Electric Vehicle |       61 kWh ";"7.4 sec";"160 km/h";"350 km";"174 Wh/km";"450 km/h";"Front Wheel Drive";"5";"46500";"39900";46500.0;39900.0
+"Polestar 2 Long Range Single Motor";"Battery Electric Vehicle |       75 kWh ";"7.4 sec";"160 km/h";"425 km";"176 Wh/km";"550 km/h";"Front Wheel Drive";"5";"49500";"42900";49500.0;42900.0
+"Polestar 2 Long Range Dual Motor";"Battery Electric Vehicle |       75 kWh ";"4.7 sec";"205 km/h";"395 km";"190 Wh/km";"510 km/h";"All Wheel Drive";"5";"52500";"45900";52500.0;45900.0
+"Volkswagen ID.4 Pure";"Battery Electric Vehicle |       52 kWh";"10.9 sec";"160 km/h";"285 km";"182 Wh/km";"410 km/h";"Rear Wheel Drive";"5";"36950";"32150";36950.0;32150.0
+"Audi Q4 e-tron 40";"Battery Electric Vehicle |       76.6 kWh";"8.5 sec";"160 km/h";"405 km";"189 Wh/km";"500 km/h";"Rear Wheel Drive";"5";"47500";"44990";47500.0;44990.0
+"Audi Q4 e-tron 50 quattro";"Battery Electric Vehicle |       76.6 kWh";"6.2 sec";"180 km/h";"385 km";"199 Wh/km";"470 km/h";"All Wheel Drive";"5";"53600";"51370";53600.0;51370.0
+"Audi Q4 Sportback e-tron 50 quattro";"Battery Electric Vehicle |       76.6 kWh";"6.2 sec";"180 km/h";"400 km";"192 Wh/km";"490 km/h";"All Wheel Drive";"5";"55600";"52870";55600.0;52870.0
+"Mercedes EQB 350 4MATIC";"Battery Electric Vehicle |       66.5 kWh";"6.5 sec";"160 km/h";"340 km";"196 Wh/km";"400 km/h";"All Wheel Drive";"7";"60000";"50000";60000.0;50000.0
+"Volkswagen ID.4 GTX";"Battery Electric Vehicle |       77 kWh";"6.2 sec";"180 km/h";"400 km";"193 Wh/km";"490 km/h";"All Wheel Drive";"5";"50415";"55540";50415.0;55540.0
+"Mercedes EQA 300 4MATIC";"Battery Electric Vehicle |       66.5 kWh";"7.7 sec";"160 km/h";"350 km";"190 Wh/km";"420 km/h";"All Wheel Drive";"5";"53538";"";53538.0;0.0
+"Mercedes EQA 350 4MATIC";"Battery Electric Vehicle |       66.5 kWh";"6.0 sec";"160 km/h";"350 km";"190 Wh/km";"420 km/h";"All Wheel Drive";"5";"56216";"";56216.0;0.0
+"Toyota PROACE Verso M 50 kWh";"Battery Electric Vehicle |       45 kWh ";"12.1 sec";"130 km/h";"185 km";"243 Wh/km";"250 km/h";"Front Wheel Drive";"7";"58530";"";58530.0;0.0
+"Toyota PROACE Verso L 50 kWh";"Battery Electric Vehicle |       45 kWh ";"12.1 sec";"130 km/h";"180 km";"250 Wh/km";"240 km/h";"Front Wheel Drive";"7";"59385";"";59385.0;0.0
+"Toyota PROACE Verso M 75 kWh";"Battery Electric Vehicle |       68 kWh ";"13.1 sec";"130 km/h";"270 km";"252 Wh/km";"290 km/h";"Front Wheel Drive";"7";"64530";"";64530.0;0.0
+"Toyota PROACE Verso L 75 kWh";"Battery Electric Vehicle |       68 kWh ";"13.1 sec";"130 km/h";"270 km";"252 Wh/km";"290 km/h";"Front Wheel Drive";"7";"65385";"";65385.0;0.0
+"CUPRA Born 150 kW - 62 kWh";"Battery Electric Vehicle |       58 kWh";"7.3 sec";"160 km/h";"350 km";"166 Wh/km";"440 km/h";"Rear Wheel Drive";"5";"36770";"30500";36770.0;30500.0
+"CUPRA Born 170 kW - 62 kWh";"Battery Electric Vehicle |       58 kWh";"6.6 sec";"160 km/h";"345 km";"168 Wh/km";"430 km/h";"Rear Wheel Drive";"5";"39000";"31500";39000.0;31500.0
+"CUPRA Born 170 kW - 82 kWh";"Battery Electric Vehicle |       77 kWh";"7.0 sec";"160 km/h";"450 km";"171 Wh/km";"550 km/h";"Rear Wheel Drive";"5";"43000";"42000";43000.0;42000.0
+"BMW i4 M50";"Battery Electric Vehicle |       80.7 kWh";"3.9 sec";"225 km/h";"450 km";"179 Wh/km";"630 km/h";"All Wheel Drive";"5";"69900";"63905";69900.0;63905.0
+"Volvo XC40 Recharge Twin Pure Electric";"Battery Electric Vehicle |       75 kWh";"4.9 sec";"180 km/h";"340 km";"221 Wh/km";"440 km/h";"All Wheel Drive";"5";"59250";"49950";59250.0;49950.0
+"Renault Megane E-Tech Electric";"Battery Electric Vehicle |       60 kWh ";"8.0 sec";"160 km/h";"335 km";"179 Wh/km";"480 km/h";"Front Wheel Drive";"5";"38000";"32500";38000.0;32500.0
+"Peugeot e-Rifter Standard 50 kWh";"Battery Electric Vehicle |       45 kWh ";"11.7 sec";"135 km/h";"200 km";"225 Wh/km";"270 km/h";"Front Wheel Drive";"7";"37590";"30375";37590.0;30375.0
+"Peugeot e-Rifter Long 50 kWh";"Battery Electric Vehicle |       45 kWh ";"11.7 sec";"135 km/h";"195 km";"231 Wh/km";"260 km/h";"Front Wheel Drive";"7";"42590";"32455";42590.0;32455.0
+"MG Marvel R ";"Battery Electric Vehicle |       65 kWh ";"7.9 sec";"200 km/h";"340 km";"191 Wh/km";"390 km/h";"Rear Wheel Drive";"5";"40000";"";40000.0;0.0
+"Tesla Model 3 Long Range Dual Motor";"Battery Electric Vehicle |       76 kWh ";"4.4 sec";"233 km/h";"490 km";"155 Wh/km";"820 km/h";"All Wheel Drive";"5";"53560";"";53560.0;0.0
+"MG MG5 EV Long Range";"Battery Electric Vehicle |       57 kWh ";"7.7 sec";"185 km/h";"340 km";"168 Wh/km";"340 km/h";"Front Wheel Drive";"5";"";"26495";0.0;26495.0
+"Audi Q4 e-tron 45 quattro";"Battery Electric Vehicle |       76.6 kWh";"6.9 sec";"180 km/h";"385 km";"199 Wh/km";"470 km/h";"All Wheel Drive";"5";"50900";"";50900.0;0.0
+"Audi Q4 Sportback e-tron 40";"Battery Electric Vehicle |       76.6 kWh";"8.5 sec";"160 km/h";"425 km";"180 Wh/km";"520 km/h";"Rear Wheel Drive";"5";"49500";"";49500.0;0.0
