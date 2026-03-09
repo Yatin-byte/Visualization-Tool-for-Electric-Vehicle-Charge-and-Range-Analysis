@@ -12,34 +12,72 @@
 <body>
 
 <header>
-<h1>Electric Vehicle Charging Stations Dashboard</h1>
+<h1>Electric Vehicle Analytics Dashboard</h1>
 <p>Visualization Tool for Electric Vehicle Charge and Range Analysis</p>
 </header>
 
-<div class="container">
+<div class="topnav">
 
-<div class="card">
+<a class="tab active" onclick="showSection('map')">Overview</a>
+<a class="tab" onclick="showSection('dashboard')">Dashboard</a>
+<a class="tab" onclick="showSection('story')">Story</a>
 
-<div class='tableauPlaceholder' id='viz1773063048779'>
+</div>
 
-<noscript>
-<a href='#'>
-<img alt='Tableau Dashboard'
-src='https://public.tableau.com/static/images/Ch/Charging_stations_17730628985250/Charging_station_distribution/1_rss.png'
-style='border: none'/>
-</a>
-</noscript>
+<div class="layout">
 
-<object class='tableauViz' style='display:none;'>
+<nav class="sidebar">
+<h3>Navigation</h3>
 
-<param name='host_url' value='https://public.tableau.com/' />
-<param name='embed_code_version' value='3' />
-<param name='site_root' value='' />
-<param name='name' value='Charging_stations_17730628985250/Charging_station_distribution' />
-<param name='tabs' value='yes' />
-<param name='toolbar' value='yes' />
+<a href="#map">Charging Stations</a>
+<a href="#dashboard">EV Dashboard</a>
+<a href="#story">EV Story</a>
+
+</nav>
+
+<div class="content">
+
+<div class="card" id="map">
+<h2>Charging Stations Distribution</h2>
+
+<div class="tableauPlaceholder">
+<object class="tableauViz">
+
+<param name="host_url" value="https://public.tableau.com/" />
+<param name="name" value="Charging_stations_17730628985250/Charging_station_distribution" />
 
 </object>
+</div>
+
+</div>
+
+
+<div class="card" id="dashboard">
+<h2>EV Analytics Dashboard</h2>
+
+<div class="tableauPlaceholder">
+<object class="tableauViz">
+
+<param name="host_url" value="https://public.tableau.com/" />
+<param name="name" value="Charging_stations_17727362257110/Electric_Car_Analytics_Dashboard" />
+
+</object>
+</div>
+
+</div>
+
+
+<div class="card" id="story">
+<h2>Story of Electric Cars in India</h2>
+
+<div class="tableauPlaceholder">
+<object class="tableauViz">
+
+<param name="host_url" value="https://public.tableau.com/" />
+<param name="name" value="Charging_stations_17727362257110/StoryofElectricCarsinINDIA" />
+
+</object>
+</div>
 
 </div>
 
@@ -50,4 +88,5 @@ style='border: none'/>
 <script src="script.js"></script>
 
 </body>
+
 </html>
